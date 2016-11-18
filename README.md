@@ -20,3 +20,7 @@ The repo contains 3 projects
 - JUCE static library.
 - Example static library linking to JUCE.
 - Example application linking to both JUCE and the example static library.
+
+## Requirements
+- CMake 3.6+
+- Git and the JUCE Projucer must be in the system path.
